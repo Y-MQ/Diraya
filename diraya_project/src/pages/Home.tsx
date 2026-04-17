@@ -63,7 +63,7 @@ const Home = () => {
           <motion.div variants={fadeUp}>
             <span className="inline-flex items-center gap-2 bg-teal/[0.07] text-teal-dark text-[11px] font-bold tracking-[0.15em] px-5 py-2 rounded-full mb-8 border border-teal/10">
               <Sparkles className="w-3.5 h-3.5" />
-              منصة ذكاء اصطناعي تعليمية
+              مصممة لطلاب عسر القراءة (Dyslexia) واضطراب ADHD   
             </span>
           </motion.div>
 
@@ -72,9 +72,9 @@ const Home = () => {
             className="text-navy font-extrabold leading-[1.15] mb-7 text-balance"
             style={{ fontSize: "clamp(36px, 5vw, 52px)" }}
           >
-            تعلّم بالطريقة
+            صُمِّمت  
             <br />
-            <span className="gradient-text">التي تناسبك</span>
+            <span className="gradient-text">لعقلك أنت </span>
           </motion.h1>
 
           <motion.p
@@ -82,8 +82,9 @@ const Home = () => {
             className="text-teal/80 mx-auto mb-12 text-balance leading-[1.9]"
             style={{ fontSize: "17px", maxWidth: "500px" }}
           >
-            دراية تأخذ أي نص أكاديمي وتعيد بناءه ليتوافق مع طريقة تفكيرك —
-            سواء كنت تحتاج تبسيطاً للمصطلحات أو تقسيماً للمحتوى إلى مهام.
+            دراية مصممة لطلاب عسر القراءة (Dyslexia) واضطراب تشتت الانتباه (ADHD).
+نأخذ أي نص أكاديمي ونعيد بناءه بكلمات مألوفة ومهمات واضحة بطريقة يفهمها عقلك
+          
           </motion.p>
 
           <motion.div
